@@ -39,7 +39,7 @@ const Hero = () => {
                   whileTap={{ scale: 0.95 }}
                   className="px-6 py-3 bg-white text-black rounded-full hover:bg-white/90 transition-colors inline-flex items-center gap-2 font-medium group"
                 >
-                  <a href="https://www.linkedin.com/in/tomadrien/">
+                  <a href="mailto:hi@tomadrien.com">
                     Contact me
                   </a>
                   <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
