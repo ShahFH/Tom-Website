@@ -64,21 +64,21 @@ const Header = () => {
             {/* Navigation for Desktop */}
             <div className="hidden sm:flex items-center space-x-6">
               <SocialLink
-                href="https://www.linkedin.com/in/tomadrien/"
+                href=""
                 icon={<Linkedin className="h-4 w-4" />}
                 label="Linkedin"
                 glowColor="bg-blue-500/50"
                 bgGradient="bg-blue-500/20"
               />
               <SocialLink
-                href="https://orsay.ai/"
+                href=""
                 icon={<Globe className="h-4 w-4" />}
                 label="Website"
                 glowColor="bg-purple-500/50"
                 bgGradient="bg-purple-500/20"
               />
               <SocialLink
-                href="https://x.com/noftomx"
+                href=""
                 icon={<Twitter className="h-4 w-4" />}
                 label="Twitter"
                 glowColor="bg-gray-500/50"
