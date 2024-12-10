@@ -1,8 +1,8 @@
 # Modern Website
 
-A sleek and engaging portfolio website built with cutting-edge technologies, featuring smooth animations, interactive elements, and a responsive design.
+A sleek and engaging portfolio website built with cutting-edge technologies, featuring smooth animations, interactive elements, and a responsive design. [Live Demo](https://tom-adrien.netlify.app/)
 
-![Portfolio Preview]()
+![Portfolio Preview](./tom-website.png)
 
 ## ✨ Features
 
